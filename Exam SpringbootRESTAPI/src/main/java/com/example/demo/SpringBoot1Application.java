@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
-
+//Aadi he change yetai ka bg tula ..tu update karu shaktoy without overload
 
 @SpringBootApplication
 @ComponentScan(basePackages = "com.example.demo.*")
